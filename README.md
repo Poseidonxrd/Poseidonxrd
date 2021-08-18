@@ -8,7 +8,7 @@ Development
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/851494905771458630" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/851494905771458630"></a>
+    <a href="https://discord.com/users/851494905771458630" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665"></a>
 </div>
 
 ## ⚡ Contact
@@ -21,7 +21,6 @@ Development
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
-    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
