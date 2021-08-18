@@ -8,7 +8,7 @@ Development
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/851494905771458630" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/851494905771458630"></a>
+    <a href="https://discord.com/users/851494905771458630" title="Discord Profile"><img src="(https://lanyard-profile-readme.vercel.app/api/851494905771458630"></a>
 </div>
 
 ## ⚡ Contact
