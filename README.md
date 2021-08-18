@@ -14,7 +14,7 @@ Development
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/851494905771458630"></a>
+    <a href="https://discord.com/users/851494905771458630" target="_blank"><img src="https://shields.io/badge/Poseidon-111111.svg?&style=for-the-badge&logo=discord"></a>
     
 ## 💻 Technologies I Use
 
