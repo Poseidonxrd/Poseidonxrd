@@ -7,6 +7,8 @@ Development
     <img src="https://komarev.com/ghpvc/?username=Poseidonxrd&color=dc143c"/>
 </div>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/851494905771458630)](https://discord.com/users/851494905771458630)
+
 ## ⚡ Contact
 
 <div align="center">
