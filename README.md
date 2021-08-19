@@ -8,13 +8,13 @@ Development
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/851494905771458630" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/851494905771458630"></a>
+    <a href="https://discord.com/users/877651456633761844" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/877651456633761844"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/851494905771458630" target="_blank"><img src="https://shields.io/badge/Poseidon-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/877651456633761844" target="_blank"><img src="https://shields.io/badge/Poseidon-111111.svg?&style=for-the-badge&logo=discord"></a>
     
 ## 💻 Technologies I Use
 
